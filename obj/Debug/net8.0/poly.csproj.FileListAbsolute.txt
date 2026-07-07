@@ -1,0 +1,14 @@
+/Users/sarahalsarami/poly/bin/Debug/net8.0/poly
+/Users/sarahalsarami/poly/bin/Debug/net8.0/poly.deps.json
+/Users/sarahalsarami/poly/bin/Debug/net8.0/poly.runtimeconfig.json
+/Users/sarahalsarami/poly/bin/Debug/net8.0/poly.dll
+/Users/sarahalsarami/poly/bin/Debug/net8.0/poly.pdb
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.AssemblyInfoInputs.cache
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.AssemblyInfo.cs
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.csproj.CoreCompileInputs.cache
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.dll
+/Users/sarahalsarami/poly/obj/Debug/net8.0/refint/poly.dll
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.pdb
+/Users/sarahalsarami/poly/obj/Debug/net8.0/poly.genruntimeconfig.cache
+/Users/sarahalsarami/poly/obj/Debug/net8.0/ref/poly.dll
